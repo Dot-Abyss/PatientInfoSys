@@ -1,0 +1,331 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\FAILURE\\Desktop\\Mohammad-Ta'an\\PatientInfoSys\\PatientInfoSys.API\\PatientInfoSys.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\FAILURE\\Desktop\\Mohammad-Ta'an\\PatientInfoSys\\PatientInfoSys.API\\PatientInfoSys.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\FAILURE\\Desktop\\Mohammad-Ta'an\\PatientInfoSys\\PatientInfoSys.API\\PatientInfoSys.API.csproj",
+        "projectName": "PatientInfoSys.API",
+        "projectPath": "C:\\Users\\FAILURE\\Desktop\\Mohammad-Ta'an\\PatientInfoSys\\PatientInfoSys.API\\PatientInfoSys.API.csproj",
+        "packagesPath": "C:\\Users\\FAILURE\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\FAILURE\\Desktop\\Mohammad-Ta'an\\PatientInfoSys\\PatientInfoSys.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\FAILURE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\FAILURE\\Desktop\\Mohammad-Ta'an\\PatientInfoSys\\PatientInfoSys.Application\\PatientInfoSys.Application.csproj": {
+                "projectPath": "C:\\Users\\FAILURE\\Desktop\\Mohammad-Ta'an\\PatientInfoSys\\PatientInfoSys.Application\\PatientInfoSys.Application.csproj"
+              },
+              "C:\\Users\\FAILURE\\Desktop\\Mohammad-Ta'an\\PatientInfoSys\\PatientInfoSys.Persistance\\PatientInfoSys.Persistance.csproj": {
+                "projectPath": "C:\\Users\\FAILURE\\Desktop\\Mohammad-Ta'an\\PatientInfoSys\\PatientInfoSys.Persistance\\PatientInfoSys.Persistance.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.23, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.23, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.3.0, )"
+            },
+            "Swashbuckle.AspNetCore.Swagger": {
+              "target": "Package",
+              "version": "[6.3.0, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerUI": {
+              "target": "Package",
+              "version": "[6.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.22, 3.1.22]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\FAILURE\\Desktop\\Mohammad-Ta'an\\PatientInfoSys\\PatientInfoSys.Application\\PatientInfoSys.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\FAILURE\\Desktop\\Mohammad-Ta'an\\PatientInfoSys\\PatientInfoSys.Application\\PatientInfoSys.Application.csproj",
+        "projectName": "PatientInfoSys.Application",
+        "projectPath": "C:\\Users\\FAILURE\\Desktop\\Mohammad-Ta'an\\PatientInfoSys\\PatientInfoSys.Application\\PatientInfoSys.Application.csproj",
+        "packagesPath": "C:\\Users\\FAILURE\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\FAILURE\\Desktop\\Mohammad-Ta'an\\PatientInfoSys\\PatientInfoSys.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\FAILURE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\FAILURE\\Desktop\\Mohammad-Ta'an\\PatientInfoSys\\PatientInfoSys.Domain\\PatientInfoSys.Domain.csproj": {
+                "projectPath": "C:\\Users\\FAILURE\\Desktop\\Mohammad-Ta'an\\PatientInfoSys\\PatientInfoSys.Domain\\PatientInfoSys.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[10.4.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\FAILURE\\Desktop\\Mohammad-Ta'an\\PatientInfoSys\\PatientInfoSys.Domain\\PatientInfoSys.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\FAILURE\\Desktop\\Mohammad-Ta'an\\PatientInfoSys\\PatientInfoSys.Domain\\PatientInfoSys.Domain.csproj",
+        "projectName": "PatientInfoSys.Domain",
+        "projectPath": "C:\\Users\\FAILURE\\Desktop\\Mohammad-Ta'an\\PatientInfoSys\\PatientInfoSys.Domain\\PatientInfoSys.Domain.csproj",
+        "packagesPath": "C:\\Users\\FAILURE\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\FAILURE\\Desktop\\Mohammad-Ta'an\\PatientInfoSys\\PatientInfoSys.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\FAILURE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.23, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.23, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\FAILURE\\Desktop\\Mohammad-Ta'an\\PatientInfoSys\\PatientInfoSys.Persistance\\PatientInfoSys.Persistance.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\FAILURE\\Desktop\\Mohammad-Ta'an\\PatientInfoSys\\PatientInfoSys.Persistance\\PatientInfoSys.Persistance.csproj",
+        "projectName": "PatientInfoSys.Persistance",
+        "projectPath": "C:\\Users\\FAILURE\\Desktop\\Mohammad-Ta'an\\PatientInfoSys\\PatientInfoSys.Persistance\\PatientInfoSys.Persistance.csproj",
+        "packagesPath": "C:\\Users\\FAILURE\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\FAILURE\\Desktop\\Mohammad-Ta'an\\PatientInfoSys\\PatientInfoSys.Persistance\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\FAILURE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\FAILURE\\Desktop\\Mohammad-Ta'an\\PatientInfoSys\\PatientInfoSys.Application\\PatientInfoSys.Application.csproj": {
+                "projectPath": "C:\\Users\\FAILURE\\Desktop\\Mohammad-Ta'an\\PatientInfoSys\\PatientInfoSys.Application\\PatientInfoSys.Application.csproj"
+              },
+              "C:\\Users\\FAILURE\\Desktop\\Mohammad-Ta'an\\PatientInfoSys\\PatientInfoSys.Domain\\PatientInfoSys.Domain.csproj": {
+                "projectPath": "C:\\Users\\FAILURE\\Desktop\\Mohammad-Ta'an\\PatientInfoSys\\PatientInfoSys.Domain\\PatientInfoSys.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.23, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.23, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.23, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.23, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

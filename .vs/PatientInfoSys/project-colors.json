@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "04b5702f-87fb-49d5-9f8e-65d3d7ec43a3": {
+      "ProjectGuid": "04b5702f-87fb-49d5-9f8e-65d3d7ec43a3",
+      "DisplayName": "PatientInfoSys.Domain",
+      "ColorIndex": 0
+    },
+    "6e7e872f-a128-4269-94ee-fa5f463dca70": {
+      "ProjectGuid": "6e7e872f-a128-4269-94ee-fa5f463dca70",
+      "DisplayName": "PatientInfoSys.Application",
+      "ColorIndex": 1
+    },
+    "7194412e-402d-4765-b7cb-e6c10a908a19": {
+      "ProjectGuid": "7194412e-402d-4765-b7cb-e6c10a908a19",
+      "DisplayName": "PatientInfoSys.Persistance",
+      "ColorIndex": 2
+    },
+    "28935038-26b9-42f6-bfed-52688d5dd511": {
+      "ProjectGuid": "28935038-26b9-42f6-bfed-52688d5dd511",
+      "DisplayName": "PatientInfoSys.API",
+      "ColorIndex": 3
+    },
+    "5dfc8d73-be15-4b6e-9a00-c1cf1dd92746": {
+      "ProjectGuid": "5dfc8d73-be15-4b6e-9a00-c1cf1dd92746",
+      "DisplayName": "PatientInfoSys.ClientApp",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

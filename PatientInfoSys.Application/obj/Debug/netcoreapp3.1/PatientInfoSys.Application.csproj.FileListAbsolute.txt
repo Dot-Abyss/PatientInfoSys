@@ -1,0 +1,13 @@
+C:\Users\FAILURE\Desktop\Mohammad-Ta'an\PatientInfoSys\PatientInfoSys.Application\bin\Debug\netcoreapp3.1\PatientInfoSys.Application.deps.json
+C:\Users\FAILURE\Desktop\Mohammad-Ta'an\PatientInfoSys\PatientInfoSys.Application\bin\Debug\netcoreapp3.1\PatientInfoSys.Application.dll
+C:\Users\FAILURE\Desktop\Mohammad-Ta'an\PatientInfoSys\PatientInfoSys.Application\bin\Debug\netcoreapp3.1\PatientInfoSys.Application.pdb
+C:\Users\FAILURE\Desktop\Mohammad-Ta'an\PatientInfoSys\PatientInfoSys.Application\bin\Debug\netcoreapp3.1\PatientInfoSys.Domain.dll
+C:\Users\FAILURE\Desktop\Mohammad-Ta'an\PatientInfoSys\PatientInfoSys.Application\bin\Debug\netcoreapp3.1\PatientInfoSys.Domain.pdb
+C:\Users\FAILURE\Desktop\Mohammad-Ta'an\PatientInfoSys\PatientInfoSys.Application\obj\Debug\netcoreapp3.1\PatientInfoSys.Application.csproj.AssemblyReference.cache
+C:\Users\FAILURE\Desktop\Mohammad-Ta'an\PatientInfoSys\PatientInfoSys.Application\obj\Debug\netcoreapp3.1\PatientInfoSys.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FAILURE\Desktop\Mohammad-Ta'an\PatientInfoSys\PatientInfoSys.Application\obj\Debug\netcoreapp3.1\PatientInfoSys.Application.AssemblyInfoInputs.cache
+C:\Users\FAILURE\Desktop\Mohammad-Ta'an\PatientInfoSys\PatientInfoSys.Application\obj\Debug\netcoreapp3.1\PatientInfoSys.Application.AssemblyInfo.cs
+C:\Users\FAILURE\Desktop\Mohammad-Ta'an\PatientInfoSys\PatientInfoSys.Application\obj\Debug\netcoreapp3.1\PatientInfoSys.Application.csproj.CoreCompileInputs.cache
+C:\Users\FAILURE\Desktop\Mohammad-Ta'an\PatientInfoSys\PatientInfoSys.Application\obj\Debug\netcoreapp3.1\PatientInfoSys.Application.csproj.CopyComplete
+C:\Users\FAILURE\Desktop\Mohammad-Ta'an\PatientInfoSys\PatientInfoSys.Application\obj\Debug\netcoreapp3.1\PatientInfoSys.Application.dll
+C:\Users\FAILURE\Desktop\Mohammad-Ta'an\PatientInfoSys\PatientInfoSys.Application\obj\Debug\netcoreapp3.1\PatientInfoSys.Application.pdb
